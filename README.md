@@ -43,9 +43,13 @@ An interactive, responsive, and feature-rich quiz built using **HTML**, **CSS**,
 
 ## 📁 Project Structure
 Interactive-Quiz/
+
 ├── index.html # Main HTML structure
+
 ├── style.css # Styling and responsive layout
+
 ├── script.js # Quiz logic and interactivity
+
 └── README.md # This documentation
 
 ---
